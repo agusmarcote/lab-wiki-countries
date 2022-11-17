@@ -1,0 +1,19 @@
+img{
+    width: 50px;
+}
+
+.detailsCountryHeader{
+    display: flex;
+    justify-content: center;
+}
+
+.detailsCountry{
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+}
+
+.detailsCountryExtra{
+    display: flex;
+    flex-flow: column;
+}
